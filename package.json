@@ -1,0 +1,12 @@
+{
+  "name": "ultimate-knowledge-hub",
+  "version": "1.0.0",
+  "description": "A knowledge hub project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build script running...'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
